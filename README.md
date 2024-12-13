@@ -31,8 +31,6 @@ SkinSense : SkinSense is an advanced AI-driven solution designed to detect and c
 
 ---
 
----
-
 ## 👥 Team Members
 | Name             | Role                 | LinkedIn                                       |
 |------------------|----------------------|------------------------------------------------|
