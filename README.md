@@ -31,12 +31,6 @@ SkinSense : SkinSense is an advanced AI-driven solution designed to detect and c
 
 ---
 
-## 📚 Getting Started
-
-### Prerequisites
-- Install [Node.js](https://nodejs.org/)
-- Install [Git](https://git-scm.com/)
-
 ---
 
 ## 👥 Team Members
