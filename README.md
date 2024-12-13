@@ -56,8 +56,16 @@ npm start
 
 ---
 
-## 🤝 Contributing
-Contributions are always welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+## 👥 Team Members
+| Name             | Role                 | LinkedIn                                       |
+|------------------|----------------------|------------------------------------------------|
+| Alif Virdio Yudhistira Widyawan         | Machine Learning               | [LinkedIn](https://linkedin.com/in/member1)    |
+| Fitri Fitriah         |       Machine Learning         | [LinkedIn](https://linkedin.com/in/member2)    |
+| Salsabila Tasya Amelia         | Machine Learning             | [LinkedIn](https://linkedin.com/in/member3)    |
+| Sultan Syahputra Yuliyanto         | Cloud Computing               | [LinkedIn](https://linkedin.com/in/member4)    |
+| Salma Azka Nurbaity         | Cloud Computing               | [LinkedIn](https://linkedin.com/in/member5)    |
+| Muhammad Habil Habibie         | Mobile Development               | [LinkedIn](https://linkedin.com/in/member6)    |
+| Imanda         | Mobile Development            | [LinkedIn](https://linkedin.com/in/member7)    |
 
 ---
 
