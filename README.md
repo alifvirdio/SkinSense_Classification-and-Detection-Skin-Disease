@@ -16,7 +16,7 @@ SkinSense : SkinSense is an advanced AI-driven solution designed to detect and c
 ---
 
 ## 🛠️ Tech Stack
-- **Machine Learning**: [TensorFlow](https://www.tensorflow.org/), [Python](https://www.python.org/)
+- **Machine Learning**: [TensorFlow](https://www.tensorflow.org/), [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/)
 - **Cloud Computing**: [Node.js](https://nodejs.org/), [Google Cloud Console](https://expressjs.com/), [HAPI](https://hapi.dev/)
 - **Mobile Development**: [Kotlin](https://kotlinlang.org/)
 
@@ -36,24 +36,6 @@ SkinSense : SkinSense is an advanced AI-driven solution designed to detect and c
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/)
 - Install [Git](https://git-scm.com/)
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate into the project directory
-cd your-repo
-
-# Install dependencies
-npm install
-```
-
-### Running Locally
-```bash
-# Start the development server
-npm start
-```
 
 ---
 
