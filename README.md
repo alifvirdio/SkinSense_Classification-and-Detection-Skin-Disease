@@ -8,14 +8,15 @@ SkinSense : SkinSense is an advanced AI-driven solution designed to detect and c
 ---
 
 ## 🚀 Features
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- Feature 1: Personalized Skin Health Dashboard
+- Feature 2: Diagnose: AI-Powered Skin Analysis
+- Feature 3: Diagnose: AI-Powered Skin Analysis
+- Feature 4: User History Tracker 
 
 ---
 
 ## 🛠️ Tech Stack
-- **Machine Learning**: [TensorFlow JS](https://www.tensorflow.org/), [Python](https://www.python.org/)
+- **Machine Learning**: [TensorFlow](https://www.tensorflow.org/), [Python](https://www.python.org/)
 - **Cloud Computing**: [Node.js](https://nodejs.org/), [Google Cloud Console](https://expressjs.com/), [HAPI](https://hapi.dev/)
 - **Mobile Development**: [Kotlin](https://kotlinlang.org/)
 
@@ -75,5 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🌟 Acknowledgements
-- [OpenAI](https://openai.com/) for AI inspiration
-- Placeholder image tools for quick image generation
+- [Bangkit Academy Batch 2](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) for learning inspiration
